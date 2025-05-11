@@ -27,3 +27,7 @@ No frameworks or external libraries are used — the game runs entirely in the b
    * ○ for correct item in wrong position.
 5. In Hard mode, a timer limits the guessing time.
 6. Win by guessing the full combination before time runs out.
+
+## 🌐 Live Demo
+
+👉 [Click here to play the game](https://noa522.github.io/ProjectGirlGame/)
